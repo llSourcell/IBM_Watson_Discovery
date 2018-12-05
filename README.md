@@ -1,6 +1,6 @@
 ## Coding Challenge
 
-This is the coding challenge for [this]() video by Siraj Raval on Youtube on the IBM Watson Discovery service. The challenge is to use Watson Discovery to build a sentiment analysis app. It showed classify some dataset, that could be reviews, tweets, news articles, facial expressions, anything that classifies sentiment in living things. Send a link to your GitHub repository to hello@sirajraval.com by December 11, 2018. Top 2 entries get a video shoutout, i'm looking for readable code and good documentation! Below is some sample code. 
+This is the coding challenge for [this](https://youtu.be/2jbMoGrFOuE) video by Siraj Raval on Youtube on the IBM Watson Discovery service. The challenge is to use Watson Discovery to build a sentiment analysis app. It showed classify some dataset, that could be reviews, tweets, news articles, facial expressions, anything that classifies sentiment in living things. Send a link to your GitHub repository to hello@sirajraval.com by December 11, 2018. Top 2 entries get a video shoutout, i'm looking for readable code and good documentation! Below is some sample code. 
 
 <h1 align="center" style="border-bottom: none;">🔎 Discovery Demo </h1>
 <h3 align="center">Use the IBM Watson Discovery service to add a cognitive search and content analytics engine to your applications to identify patterns, trends and actionable insights that drive better decision-making.</h3>
