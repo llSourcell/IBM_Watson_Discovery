@@ -20,7 +20,7 @@ Demo: https://discovery-news-demo.ng.bluemix.net/
 
 ## Prerequisites
 
-1. Sign up for an [IBM Cloud account](https://console.bluemix.net/registration/).
+1. Sign up for an [IBM Cloud account](https://ibm.biz/ibm-cloud-signup).
 1. Download the [IBM Cloud CLI](https://console.bluemix.net/docs/cli/index.html#overview).
 1. Create an instance of the Discovery service and get your credentials:
     - Go to the [Discovery](https://console.bluemix.net/catalog/services/discovery) page in the IBM Cloud Catalog.
